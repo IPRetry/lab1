@@ -1,1 +1,2 @@
-# lab1
+# lab0
+print("Hello world!")
